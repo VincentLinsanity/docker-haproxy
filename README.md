@@ -8,7 +8,8 @@ https://github.com/docker-library/docs/tree/master/haproxy
 Current Version: 1.6.7
 
 ## Maintainer
-Vincent_Lin@xpec.com
+### Vincent
+### Vincentlinsanity@gmail.com
 
 # Compose Setting
 - Listen ports 443 to 443
