@@ -1,0 +1,7 @@
+haproxy:
+  image: haproxy:1.6
+  ports:
+    - "443:443"
+    - "80:1936"
+  volumes:
+    - "./Assets/etc/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro"
